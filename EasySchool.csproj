@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{99D82D26-C265-4D62-8881-F5A8F31EC2F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EasySchool</RootNamespace>
+    <AssemblyName>EasySchool</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addNewUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addNewUserForm.Designer.cs">
+      <DependentUpon>addNewUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changeRangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeRangeForm.Designer.cs">
+      <DependentUpon>changeRangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editPassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editPassForm.Designer.cs">
+      <DependentUpon>editPassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fGradeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGradeDialog.Designer.cs">
+      <DependentUpon>fGradeDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gradeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gradeDialog.Designer.cs">
+      <DependentUpon>gradeDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gradeStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gradeStatsForm.Designer.cs">
+      <DependentUpon>gradeStatsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pickClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pickClass.Designer.cs">
+      <DependentUpon>pickClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printForm.Designer.cs">
+      <DependentUpon>printForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="pwdForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pwdForm.Designer.cs">
+      <DependentUpon>pwdForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settingsForm.Designer.cs">
+      <DependentUpon>settingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="splashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashScreen.Designer.cs">
+      <DependentUpon>splashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="statsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="statsForm.Designer.cs">
+      <DependentUpon>statsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addNewUserForm.resx">
+      <DependentUpon>addNewUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeRangeForm.resx">
+      <DependentUpon>changeRangeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editPassForm.resx">
+      <DependentUpon>editPassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGradeDialog.resx">
+      <DependentUpon>fGradeDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gradeDialog.resx">
+      <DependentUpon>gradeDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gradeStatsForm.resx">
+      <DependentUpon>gradeStatsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pickClass.resx">
+      <DependentUpon>pickClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printForm.resx">
+      <DependentUpon>printForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pwdForm.resx">
+      <DependentUpon>pwdForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settingsForm.resx">
+      <DependentUpon>settingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splashScreen.resx">
+      <DependentUpon>splashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="statsForm.resx">
+      <DependentUpon>statsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stats.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\five.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\four.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\one.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\three.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\two.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unchecked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\user_male.png" />
+    <None Include="Resources\female_user.png" />
+    <None Include="Resources\icons8-user-48.png" />
+    <None Include="Resources\icons8-person-female-48.png" />
+    <None Include="Resources\showPass.png" />
+    <None Include="Resources\hidePass.png" />
+    <None Include="Resources\unCheckMark.png" />
+    <None Include="Resources\splashscreen.jpg" />
+    <None Include="Resources\resetnotes.png" />
+    <None Include="Resources\removenotes.png" />
+    <None Include="Resources\refreshWb.png" />
+    <None Include="Resources\closeWb.png" />
+    <None Include="Resources\removeUser.png" />
+    <None Include="Resources\editUser.png" />
+    <None Include="Resources\addUser.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
