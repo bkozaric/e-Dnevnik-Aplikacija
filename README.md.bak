@@ -1,4 +1,13 @@
-![C:\\Users\\BERNARD\\Desktop\\splashscreen.jpg]
+![C:\\Users\\BERNARD\\Desktop\\splashscreen.jpg](readmeMedia/media/image1.jpeg){width="8.30188757655293in"
+height="5.452830271216098in"}
+
+**Autor:** Bernard Kozarić
+
+**Mentor:** Vilim Jurković
+
+**Škola:** Tehnička škola Zagreb
+
+**Godina:** 2016./2017.
 
 [1. O aplikaciji 3](#o-aplikaciji)
 
@@ -102,7 +111,8 @@ Sve ikone u aplikaciji preuzete su sa stranice: *icons8.com* i
 
 • Nakon otvaranja aplikacije prikazuje nam se sljedeći prozor
 
-![](readmeMedia/media/image2.png)
+![](readmeMedia/media/image2.png){width="3.5in"
+height="1.4583333333333333in"}
 
 • Ovdje upisujemo korisničko ime i lozinku koju koristimo za prijavu na
 e-dnevnik za učenike.
@@ -118,18 +128,21 @@ prijavljujemo se u aplikaciju.
 • U slučaju da je učenik pohađao više od jednog razreda u Aplikaciji
 dobiva izbornik za izbor razreda:
 
-![](readmeMedia/media/image3.png)
+![](readmeMedia/media/image3.png){width="6.113207567804024in"
+height="2.4697200349956256in"}
 
 • Korisnik ovdje odabire željeni razred, te nastavlja dalje s klikom na
 tipku „Odaberi" ili tipkom Enter.
 
 # 3. Opis sučelja
 
-![](readmeMedia/media/image4.png)• Odmah nakon prijave, u gornjem lijevom
+![](readmeMedia/media/image4.png){width="2.707638888888889in"
+height="2.0659722222222223in"}• Odmah nakon prijave, u gornjem lijevom
 kutu možemo vidjeti neke osnovne informaciju o učeniku, razredu i školi
 koju pohađa, te školsku godinu.
 
-![](readmeMedia/media/image5.png)• Ispod toga nalazi se par tipki o kojima
+![](readmeMedia/media/image5.png){width="2.452777777777778in"
+height="3.1458333333333335in"}• Ispod toga nalazi se par tipki o kojima
 ćemo malo kasnije.
 
 • Ispod tih tipki nalazi se popis svih predmeta. Dvoklikom miša na
@@ -150,14 +163,17 @@ izlaza iz aplikacije.
 • Klikom miša na ovu tipku otvaraju se svi predmeti odjednom, što bi
 inače morali raditi ručno predmet po predmet.
 
-![](readmeMedia/media/image6.png)
-![](readmeMedia/media/image7.png)
+![](readmeMedia/media/image6.png){width="3.094339457567804in"
+height="2.460433070866142in"}
+![](readmeMedia/media/image7.png){width="3.141509186351706in"
+height="2.4256627296587925in"}
 
 • Također korisnik može sakriti sve prikazane predmete ako to želi.
 
 ## 4.2. Trenutno brisanje bilješki u svrhu preglednosti
 
-![](readmeMedia/media/image8.png)
+![](readmeMedia/media/image8.png){width="3.849057305336833in"
+height="2.6006463254593175in"}
 
 • Budući da je vrlo nepregledno čitati ocjene zajedno sa svim
 bilješkama, tablica pisanih lektira te nadolazećih ispita, korisnik ima
@@ -165,7 +181,8 @@ mogućnost njihova skrivanja.
 
 • Rezultat pritiska na tu tipku je sljedeći:
 
-![](readmeMedia/media/image9.png)
+![](readmeMedia/media/image9.png){width="5.029541776027997in"
+height="8.528301618547681in"}
 
 • U slučaju da korisnik želi vratiti izbrisane bilješke, to lako može
 učiniti pritiskom miša na tu istu tipku.
@@ -176,11 +193,12 @@ učiniti pritiskom miša na tu istu tipku.
 naći osobne podatke u učeniku, kao što su adresa, datum rođenja, ime
 majke i oca, OIB\...
 
-![](readmeMedia/media/image10.png)
+![](readmeMedia/media/image10.png){width="3.4245286526684167in"
+height="2.452354549431321in"}
 
-![](readmeMedia/media/image11.png)
-
-![](readmeMedia/media/image12.png)
+![](readmeMedia/media/image11.png){width="3.23584864391951in"
+height="3.2941524496937884in"}![](readmeMedia/media/image12.png){width="3.234027777777778in"
+height="3.298611111111111in"}
 
 • Ovdje imamu opciju prikaza svih podataka pritiskom miša na tipku
 „Prikaži sve." Isto možemo i sakriti pritiskom miša na tipku „Sakrij
@@ -192,15 +210,15 @@ sakriti pritiskom na „minuse"
 
 # 5. Postavke
 
-![](readmeMedia/media/image13.png)
-• Korisnik može podešavati neke postavke
+![](readmeMedia/media/image13.png){width="1.6409722222222223in"
+height="1.448611111111111in"}• Korisnik može podešavati neke postavke
 aplikacije pritiskom na za to predviđenu tipku, nakon čega će mu se
 otvoriti novi prozor s postavkama aplikacije.
 
 ## 5.1. Upravitelj ručno dodanih spremljenih ispita
 
-![](readmeMedia/media/image14.png)
-• U slučaju da je korisnik [ručno dodao
+![](readmeMedia/media/image14.png){width="2.189583333333333in"
+height="2.7729166666666667in"}• U slučaju da je korisnik [ručno dodao
 ispite](#ispiti), ovdje ih može vidjeti, te njima upravljati.
 
 • Postoji opcija brisanja svih ručno dodanih ispita, te samo onih
@@ -211,44 +229,44 @@ označenih.
 • Ovdje korisnik može mijenjati zadane postavke, kao što su opseg
 traženja nadolazećih ispita i nedavnih ocjena.
 
-![](readmeMedia/media/image15.png)
-• Za primjenu željenih unesenih podataka
+![](readmeMedia/media/image15.png){width="3.084722222222222in"
+height="1.2729166666666667in"}• Za primjenu željenih unesenih podataka
 napravimo klik mišem na zelenu kvačicu pored podatka kojeg želimo
 primijeniti. U slučaju da želimo primijeniti podatke za sve postavke
 pritisnimo tipku miša na veliku zelenu kvačicu.
 
 ## 5.3. Upravitelj zapamćenih korisnika i lozinki 
 
-![](readmeMedia/media/image16.png)
-• U prvoj kartici korisnik može upravljati
+![](readmeMedia/media/image16.png){width="2.046527777777778in"
+height="2.591666666666667in"}• U prvoj kartici korisnik može upravljati
 zapamćenim korisnicima i njihovim lozinkama.
 
 • Može brisati zapamćene korisnike, dodavati nove, te mijenjati[^1]
 lozinke postojećih korisnika.
 
-![](readmeMedia/media/image17.png)
-• Za brisanje svih korisnika kliknite
+![](readmeMedia/media/image17.png){width="1.6319444444444444in"
+height="0.8270833333333333in"}• Za brisanje svih korisnika kliknite
 lijevom tipkom miša na tipku u donjem lijevom kutu.
 
-![](readmeMedia/media/image18.png)
-• Pritiskom miša na tipku odmah pored
+![](readmeMedia/media/image18.png){width="1.8888888888888888in"
+height="0.7458333333333333in"}• Pritiskom miša na tipku odmah pored
 tipke za brisanje svih korisnika, brišemo označene korisnike.
 
-![](readmeMedia/media/image19.png)
-• Za dodavanje novog korisnika pritisnite
+![](readmeMedia/media/image19.png){width="1.0847222222222221in"
+height="0.7215277777777778in"}• Za dodavanje novog korisnika pritisnite
 na tipku desno od tipke za brisanje označenih korisnika. Otvoriti će se
 novi prozor u koje unosimo podatke za novog korisnika.
 
-![](readmeMedia/media/image20.png)
-• Korisnik ne mora upisati lozinku u slučaju da želi da
+![](readmeMedia/media/image20.png){width="2.123611111111111in"
+height="1.575in"}• Korisnik ne mora upisati lozinku u slučaju da želi da
 samo korisničko ime ostane zapamćeno na računalu na kojem se
 prijavljuje.
 
 • Lozinka mora biti duža od 5 znakova.
 
-![](readmeMedia/media/image21.png)
-![](readmeMedia/media/image22.png)
-• Za promjenu^1^ lozinke kliknite mišem na
+![](readmeMedia/media/image21.png){width="0.8652777777777778in"
+height="0.8263888888888888in"}![](readmeMedia/media/image22.png){width="2.1222222222222222in"
+height="1.573611111111111in"}• Za promjenu^1^ lozinke kliknite mišem na
 tipku u desnom kutu.
 
 • Otvoriti će se novi prozor u kojem unosimo potrebne podatke. Prvo
@@ -270,7 +288,8 @@ sa ocjenom koju je dobio nakon ispravka.*)
 • Korisnik ovo može učiniti desnim klikom miša na ćeliju u koju želi
 dodati ocjenu ili iz koje želi izbrisati ocjenu.
 
-![](readmeMedia/media/image23.png)
+![](readmeMedia/media/image23.png){width="4.02830271216098in"
+height="1.1889359142607174in"}
 
 • Korisnik ovdje ima opciju dodavanja nove ocjene, jednostavno pritiskom
 miša na željenu ocjenu.
@@ -278,13 +297,14 @@ miša na željenu ocjenu.
 • U slučaju da korisnik želi izbrisati ocjenu to može učinit pritiskom
 miša na „*koš za smeće*"
 
-![](readmeMedia/media/image24.png)
-• Korisnik također ima mogućnost zamjene
+![](readmeMedia/media/image24.png){width="1.5659722222222223in"
+height="0.8180555555555555in"}• Korisnik također ima mogućnost zamjene
 postojećih ocjena u ćeliji koju je odabrao nekom drugom ocjenom. To može
 postići pritiskom miša na za to predviđenu tipku prije no što odabere
 ocjenu.
 
-![](readmeMedia/media/image25.png)
+![](readmeMedia/media/image25.png){width="4.103772965879265in"
+height="1.211211723534558in"}
 
 **Napomena:** Ocjene koje su dodane od strane korisnika neće biti
 ispisane koristeći funkciju „[*Ispis*](#ispis)", niti će se nalaziti na
@@ -294,26 +314,27 @@ popisu dobivenih ocjena, a nestaju osvježavanjem stranice.
 
 ### 6.2.1. Zaključne ocjene
 
-![](readmeMedia/media/image26.png)
-• Jedna od glavnih funkcija aplikacije
+![](readmeMedia/media/image26.png){width="2.0659722222222223in"
+height="1.4326388888888888in"}• Jedna od glavnih funkcija aplikacije
 nalazi se u prozoru za statistiku kojim možemo pristupiti pritiskom na
 sljedeću tipku:.
 
 • Otvara se prozor sa mnoštvom funkcija.
 
-![](readmeMedia/media/image27.png)
+![](readmeMedia/media/image27.png){width="5.801388888888889in"
+height="4.054166666666666in"}
 
 • U ovom prozoru možemo vidjeti prosjeke, zaključne ocjene svih
 predmeta, broj predmeta i ukupan prosjek. S desne strane vidimo broj
 pojedinih zaključnih ocjena.
 
-![](readmeMedia/media/image28.png)
-• U desnom donjem kutu nalaze se tipke za
+![](readmeMedia/media/image28.png){width="3.1215277777777777in"
+height="2.1319444444444446in"}• U desnom donjem kutu nalaze se tipke za
 ispis predmeta iz kojih imamo određenu zaključnu ocjenu te imamo
 mogućnost da nam se u e-dnevniku prikažu ocjene iz tih predmeta.
 
-![](readmeMedia/media/image29.png)
-• Ako želimo izmijeniti zaključne ocjene u svrhu
+![](readmeMedia/media/image29.png){width="3.7354166666666666in"
+height="1.58125in"}• Ako želimo izmijeniti zaključne ocjene u svrhu
 provjere općeg uspjeha s nekom određenom zaključnom ocjenom to možemo
 napraviti duplim klikom miša na željeni predmet.
 
@@ -322,14 +343,15 @@ napraviti duplim klikom miša na željeni predmet.
 • Na sljedećoj kartici „Ocjene" možemo naći dva izbora, a to su: „Sve
 ocjene" i „Nedavne ocjene."
 
-![](readmeMedia/media/image30.png)
+![](readmeMedia/media/image30.png){width="6.886792432195976in"
+height="3.4185017497812775in"}
 
 • Pod „Sve ocjene" možemo vidjeti ocjene iz svih predmeta, a sa strane
 nam je prikazana osnovna statistika, poput broja određenih ocjena,
 postotka neke ocjene te ukupan broj ocjena.
 
-![](readmeMedia/media/image31.png)
-• Također istu to statistiku možemo vidjet
+![](readmeMedia/media/image31.png){width="1.9111111111111112in"
+height="2.1694444444444443in"}• Također istu to statistiku možemo vidjet
 duplim klikom miša na željeni predmet.
 
 • Osim toga možemo vidjeti i profesora/icu koji predaje taj predmet,
@@ -338,7 +360,8 @@ prosjek i zaključnu ocjenu.
 • U odabiru „Nedavne ocjene" možemo vidjeti ocjene koje smo dobili u
 zadnjih nekoliko dana. Korisnik sam može upisati koliko će to dana biti.
 
-![](readmeMedia/media/image32.png)
+![](readmeMedia/media/image32.png){width="6.442806211723535in"
+height="3.1981135170603676in"}
 
 ### 6.2.3. Ispiti
 
@@ -346,7 +369,8 @@ zadnjih nekoliko dana. Korisnik sam može upisati koliko će to dana biti.
 nedavnim ocjenama i kod nadolazećih ispita možemo odrediti za koliko
 dana unaprijed želimo vidjeti ispite.
 
-![](readmeMedia/media/image33.png)
+![](readmeMedia/media/image33.png){width="6.647704505686789in"
+height="3.141509186351706in"}
 
 • Ukoliko iz nekog predmeta nije upisana provjera znanja učenik ju sam
 može dodati kao podsjetnik. To može učinit pritiskom na tipki „Dodaj
@@ -355,8 +379,8 @@ obrisati u postavkama. Svaki korisnik može dodavati svoje ispite.
 
 ### 6.2.4. Izostanci
 
-![](readmeMedia/media/image34.png)
-• U kartici „Izostanci" možemo vidjeti koliko
+![](readmeMedia/media/image34.png){width="2.9902777777777776in"
+height="2.76875in"}• U kartici „Izostanci" možemo vidjeti koliko
 pojedinih izostanaka učenik ima. Razlike od originalnog e-dnevnika su
 dvije:
 
@@ -375,14 +399,16 @@ na temelju izračunate statistike. U njemu piše koji nam je ukupan
 prosjek, opći uspjeh, te koliko se moramo popraviti da nam opći uspjeh
 bude još bolji.
 
-![](readmeMedia/media/image35.png)
+![](readmeMedia/media/image35.png){width="5.745283245844269in"
+height="2.0138418635170603in"}
 
-![](readmeMedia/media/image36.png)
+![](readmeMedia/media/image36.png){width="5.7327099737532805in"
+height="2.009433508311461in"}
 
 ## 6.2. Ispis
 
-![](readmeMedia/media/image37.png)
-• Posljednja, ali i jedna od najboljih
+![](readmeMedia/media/image37.png){width="0.8770833333333333in"
+height="0.9652777777777778in"}• Posljednja, ali i jedna od najboljih
 funkcija aplikacije je ispis gotovo sve statistike koju nudi ova
 aplikacija u .HTML datoteci, koja se kasnije može ispisati na papir.
 
@@ -393,8 +419,8 @@ aplikacija u .HTML datoteci, koja se kasnije može ispisati na papir.
 • Otvorit će nam se prozor gdje odabiremo podatke koje želimo da se
 ispišu.
 
-![](readmeMedia/media/image38.png)
-• Kada smo označili željene stavke,
+![](readmeMedia/media/image38.png){width="3.0375in"
+height="3.6458333333333335in"}• Kada smo označili željene stavke,
 stisnemo tipku „Ispis \..."
 
 • Otvoriti će se tipični dijalog za spremanje datoteke.
