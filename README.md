@@ -1,64 +1,3 @@
-![C:\\Users\\BERNARD\\Desktop\\splashscreen.jpg]
-
-[1. O aplikaciji 3](#o-aplikaciji)
-
-[1.1. Opis aplikacije 3](#opis-aplikacije)
-
-[1.2. Ciljana publika 3](#ciljana-publika)
-
-[1.3. Tehnički zahtjevi 3](#tehnički-zahtjevi)
-
-[1.4. Izvedba 3](#izvedba)
-
-[2. Uvod 4](#uvod)
-
-[2.1. Prijava u aplikaciju 4](#prijava-u-aplikaciju)
-
-[2.2 Odabir razreda 4](#odabir-razreda)
-
-[3. Opis sučelja 5](#opis-sučelja)
-
-[4. Osnovne značajke aplikacije 6](#osnovne-značajke-aplikacije)
-
-[4.1. Prikazi svih predmeta odjednom 6](#prikazi-svih-predmeta-odjednom)
-
-[4.2. Trenutno brisanje bilješki u svrhu preglednosti
-6](#trenutno-brisanje-bilješki-u-svrhu-preglednosti)
-
-[4.3. Prikaz osobnih informacija 8](#prikaz-osobnih-informacija)
-
-[5. Postavke 9](#postavke)
-
-[5.1. Upravitelj ručno dodanih spremljenih ispita
-9](#upravitelj-ručno-dodanih-spremljenih-ispita)
-
-[5.2. Zadane postavke 9](#zadane-postavke)
-
-[5.3. Upravitelj zapamćenih korisnika i lozinki
-10](#upravitelj-zapamćenih-korisnika-i-lozinki)
-
-[6. Napredne funkcije aplikacije 11](#napredne-funkcije-aplikacije)
-
-[6.1. Proizvoljno dodavanje i brisanje ocjena
-11](#proizvoljno-dodavanje-i-brisanje-ocjena)
-
-[6.2. Statistika ocjena, prosjeka i izostanaka, nedavne ocjene,
-nadolazeći ispiti
-12](#statistika-ocjena-prosjeka-i-izostanaka-nedavne-ocjene-nadolazeći-ispiti)
-
-[6.2.1. Zaključne ocjene 12](#zaključne-ocjene)
-
-[6.2.2. Ocjene (sve ocjene i nedavne ocjene)
-13](#ocjene-sve-ocjene-i-nedavne-ocjene)
-
-[6.2.3. Ispiti 14](#ispiti)
-
-[6.2.4. Izostanci 15](#izostanci)
-
-[6.2.5. Dodatne informacije 15](#dodatne-informacije)
-
-[6.2. Ispis 16](#ispis)
-
 # 1. O aplikaciji
 
 ## 1.1. Opis aplikacije
@@ -193,6 +132,7 @@ sakriti pritiskom na „minuse"
 # 5. Postavke
 
 ![](readmeMedia/media/image13.png)
+
 • Korisnik može podešavati neke postavke
 aplikacije pritiskom na za to predviđenu tipku, nakon čega će mu se
 otvoriti novi prozor s postavkama aplikacije.
@@ -200,6 +140,7 @@ otvoriti novi prozor s postavkama aplikacije.
 ## 5.1. Upravitelj ručno dodanih spremljenih ispita
 
 ![](readmeMedia/media/image14.png)
+
 • U slučaju da je korisnik [ručno dodao
 ispite](#ispiti), ovdje ih može vidjeti, te njima upravljati.
 
@@ -212,6 +153,7 @@ označenih.
 traženja nadolazećih ispita i nedavnih ocjena.
 
 ![](readmeMedia/media/image15.png)
+
 • Za primjenu željenih unesenih podataka
 napravimo klik mišem na zelenu kvačicu pored podatka kojeg želimo
 primijeniti. U slučaju da želimo primijeniti podatke za sve postavke
@@ -220,6 +162,7 @@ pritisnimo tipku miša na veliku zelenu kvačicu.
 ## 5.3. Upravitelj zapamćenih korisnika i lozinki 
 
 ![](readmeMedia/media/image16.png)
+
 • U prvoj kartici korisnik može upravljati
 zapamćenim korisnicima i njihovim lozinkama.
 
@@ -227,19 +170,23 @@ zapamćenim korisnicima i njihovim lozinkama.
 lozinke postojećih korisnika.
 
 ![](readmeMedia/media/image17.png)
+
 • Za brisanje svih korisnika kliknite
 lijevom tipkom miša na tipku u donjem lijevom kutu.
 
 ![](readmeMedia/media/image18.png)
+
 • Pritiskom miša na tipku odmah pored
 tipke za brisanje svih korisnika, brišemo označene korisnike.
 
 ![](readmeMedia/media/image19.png)
+
 • Za dodavanje novog korisnika pritisnite
 na tipku desno od tipke za brisanje označenih korisnika. Otvoriti će se
 novi prozor u koje unosimo podatke za novog korisnika.
 
 ![](readmeMedia/media/image20.png)
+
 • Korisnik ne mora upisati lozinku u slučaju da želi da
 samo korisničko ime ostane zapamćeno na računalu na kojem se
 prijavljuje.
@@ -248,6 +195,7 @@ prijavljuje.
 
 ![](readmeMedia/media/image21.png)
 ![](readmeMedia/media/image22.png)
+
 • Za promjenu^1^ lozinke kliknite mišem na
 tipku u desnom kutu.
 
@@ -279,6 +227,7 @@ miša na željenu ocjenu.
 miša na „*koš za smeće*"
 
 ![](readmeMedia/media/image24.png)
+
 • Korisnik također ima mogućnost zamjene
 postojećih ocjena u ćeliji koju je odabrao nekom drugom ocjenom. To može
 postići pritiskom miša na za to predviđenu tipku prije no što odabere
@@ -295,6 +244,7 @@ popisu dobivenih ocjena, a nestaju osvježavanjem stranice.
 ### 6.2.1. Zaključne ocjene
 
 ![](readmeMedia/media/image26.png)
+
 • Jedna od glavnih funkcija aplikacije
 nalazi se u prozoru za statistiku kojim možemo pristupiti pritiskom na
 sljedeću tipku:.
@@ -308,11 +258,13 @@ predmeta, broj predmeta i ukupan prosjek. S desne strane vidimo broj
 pojedinih zaključnih ocjena.
 
 ![](readmeMedia/media/image28.png)
+
 • U desnom donjem kutu nalaze se tipke za
 ispis predmeta iz kojih imamo određenu zaključnu ocjenu te imamo
 mogućnost da nam se u e-dnevniku prikažu ocjene iz tih predmeta.
 
 ![](readmeMedia/media/image29.png)
+
 • Ako želimo izmijeniti zaključne ocjene u svrhu
 provjere općeg uspjeha s nekom određenom zaključnom ocjenom to možemo
 napraviti duplim klikom miša na željeni predmet.
@@ -329,6 +281,7 @@ nam je prikazana osnovna statistika, poput broja određenih ocjena,
 postotka neke ocjene te ukupan broj ocjena.
 
 ![](readmeMedia/media/image31.png)
+
 • Također istu to statistiku možemo vidjet
 duplim klikom miša na željeni predmet.
 
@@ -356,6 +309,7 @@ obrisati u postavkama. Svaki korisnik može dodavati svoje ispite.
 ### 6.2.4. Izostanci
 
 ![](readmeMedia/media/image34.png)
+
 • U kartici „Izostanci" možemo vidjeti koliko
 pojedinih izostanaka učenik ima. Razlike od originalnog e-dnevnika su
 dvije:
@@ -382,6 +336,7 @@ bude još bolji.
 ## 6.2. Ispis
 
 ![](readmeMedia/media/image37.png)
+
 • Posljednja, ali i jedna od najboljih
 funkcija aplikacije je ispis gotovo sve statistike koju nudi ova
 aplikacija u .HTML datoteci, koja se kasnije može ispisati na papir.
@@ -394,6 +349,7 @@ aplikacija u .HTML datoteci, koja se kasnije može ispisati na papir.
 ispišu.
 
 ![](readmeMedia/media/image38.png)
+
 • Kada smo označili željene stavke,
 stisnemo tipku „Ispis \..."
 
